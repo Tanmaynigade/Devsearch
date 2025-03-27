@@ -1,1 +1,2 @@
 # Devsearch
+The "DevSearch" project is a web application designed to connect students with project owners, facilitating collaboration and networking within educational communities. This platform allows users to upload their projects, view others' work, and engage through features like chat, comments, and likes. The primary goal is to bridge the gap between students and alumni by providing a centralized repository of projects specific to their colleges and universities.
